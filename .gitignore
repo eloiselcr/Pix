@@ -1,0 +1,9 @@
+config.json
+/.venv
+/out
+devis_test.pdf
+__pycache__/
+*.pyc
+.DS_Store
+
+
